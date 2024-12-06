@@ -7,7 +7,6 @@ To develop a Django application to store and retrieve data from a bank loan data
 
 ![Screenshot 2024-12-06 213233](https://github.com/user-attachments/assets/f4b50d3a-ded2-4ddb-ad14-960c154d08cb)
 
-
 ## DESIGN STEPS
 ## STEP 1:
 Clone the problem from GitHub
@@ -43,7 +42,6 @@ from .models import book,bookAdmin
 admin.site.register(book,bookAdmin)
 ```
 # OUTPUT
-Include the screenshot of your admin page.
 
 ![Screenshot 2024-12-06 213209](https://github.com/user-attachments/assets/28f4eca8-9058-48d5-8d94-edd309f8803a)
 
