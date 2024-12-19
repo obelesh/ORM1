@@ -45,7 +45,8 @@ admin.site.register(book,bookAdmin)
 
 ![Screenshot 2024-12-06 213209](https://github.com/user-attachments/assets/28f4eca8-9058-48d5-8d94-edd309f8803a)
 
-![Uploading user.jpg…]()
+![user](https://github.com/user-attachments/assets/2eb720fe-7886-49be-9a23-6c1cd7e620cb)
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
